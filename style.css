@@ -1,0 +1,12 @@
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #e6b800;
+    color: white;
+    padding-bottom: 2rem;
+}
+
+.rounded-circle {
+    border: 3px solid;
+    border-color: white;
+}
